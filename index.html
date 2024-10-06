@@ -9,6 +9,14 @@
         canvas { max-width: 100%; max-height: 100%; object-fit: contain; }
         #audioFile { position: absolute; top: 10px; left: 10px; }
     </style>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@0.169.0/build/three.module.js",
+                "three/examples/jsm/": "https://unpkg.com/three@0.169.0/examples/jsm/"
+            }
+        }
+    </script>
 </head>
 <body>
     <input type="file" id="audioFile" accept="audio/*">
