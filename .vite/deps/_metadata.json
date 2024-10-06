@@ -1,0 +1,91 @@
+{
+  "hash": "b534550f",
+  "configHash": "1625d5f5",
+  "lockfileHash": "9a3648c9",
+  "browserHash": "d547c46b",
+  "optimized": {
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "10e8d442",
+      "needsInterop": false
+    },
+    "three/examples/jsm/postprocessing/EffectComposer.js": {
+      "src": "../../node_modules/three/examples/jsm/postprocessing/EffectComposer.js",
+      "file": "three_examples_jsm_postprocessing_EffectComposer__js.js",
+      "fileHash": "7780b33b",
+      "needsInterop": false
+    },
+    "three/examples/jsm/postprocessing/RenderPass.js": {
+      "src": "../../node_modules/three/examples/jsm/postprocessing/RenderPass.js",
+      "file": "three_examples_jsm_postprocessing_RenderPass__js.js",
+      "fileHash": "430bac6e",
+      "needsInterop": false
+    },
+    "three/examples/jsm/postprocessing/ShaderPass.js": {
+      "src": "../../node_modules/three/examples/jsm/postprocessing/ShaderPass.js",
+      "file": "three_examples_jsm_postprocessing_ShaderPass__js.js",
+      "fileHash": "1c364bd0",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls.js": {
+      "src": "../../node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls__js.js",
+      "fileHash": "cc17b3ac",
+      "needsInterop": false
+    },
+    "three/examples/jsm/objects/Reflector.js": {
+      "src": "../../node_modules/three/examples/jsm/objects/Reflector.js",
+      "file": "three_examples_jsm_objects_Reflector__js.js",
+      "fileHash": "98f2a172",
+      "needsInterop": false
+    },
+    "three/examples/jsm/objects/Water.js": {
+      "src": "../../node_modules/three/examples/jsm/objects/Water.js",
+      "file": "three_examples_jsm_objects_Water__js.js",
+      "fileHash": "d69d23bb",
+      "needsInterop": false
+    },
+    "three/examples/jsm/postprocessing/UnrealBloomPass.js": {
+      "src": "../../node_modules/three/examples/jsm/postprocessing/UnrealBloomPass.js",
+      "file": "three_examples_jsm_postprocessing_UnrealBloomPass__js.js",
+      "fileHash": "b35fd2a6",
+      "needsInterop": false
+    },
+    "three/examples/jsm/shaders/ColorCorrectionShader.js": {
+      "src": "../../node_modules/three/examples/jsm/shaders/ColorCorrectionShader.js",
+      "file": "three_examples_jsm_shaders_ColorCorrectionShader__js.js",
+      "fileHash": "e7b5f660",
+      "needsInterop": false
+    },
+    "@ffmpeg/ffmpeg": {
+      "src": "../../node_modules/@ffmpeg/ffmpeg/dist/esm/index.js",
+      "file": "@ffmpeg_ffmpeg.js",
+      "fileHash": "f3bb95d7",
+      "needsInterop": false
+    },
+    "@ffmpeg/util": {
+      "src": "../../node_modules/@ffmpeg/util/dist/esm/index.js",
+      "file": "@ffmpeg_util.js",
+      "fileHash": "484a9f98",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-6QDNAWVD": {
+      "file": "chunk-6QDNAWVD.js"
+    },
+    "chunk-YZ7RHIIL": {
+      "file": "chunk-YZ7RHIIL.js"
+    },
+    "chunk-3CK76CR2": {
+      "file": "chunk-3CK76CR2.js"
+    },
+    "chunk-Z7OYAWFU": {
+      "file": "chunk-Z7OYAWFU.js"
+    },
+    "chunk-JMHRHAEL": {
+      "file": "chunk-JMHRHAEL.js"
+    }
+  }
+}
